@@ -4,7 +4,7 @@ http://events.saintpeters.edu/EventList.aspx?fromdate=2/6/2019&todate=2/6/2019&d
 
 
 | Date | Location | Time | Topic | Full Description |
-| ---- | -------- || ---- | ----- || ---------------- |
+| ------------ | ----------------------- | ------------- | ----------------------------------- | ---------------- |
 | `Mon Jan 31` | Loyola Hall Lab 13/Zoom | *5 PM - 7 PM* | **Computer Science Club Code Camp** | Introduction to Python & C++ (Pizza& Beverages are served) |
 | `Mon Feb 07` | Loyola Hall Lab 13/Zoom | *5 PM - 7 PM* | **Computer Science Club Code Camp** | Python & C++ |
 | `Mon Feb 28` | Loyola Hall Lab 13/Zoom | *5 PM - 7 PM* | **Computer Science Club Code Camp** | Python & C++ |
@@ -19,3 +19,4 @@ http://events.saintpeters.edu/EventList.aspx?fromdate=2/6/2019&todate=2/6/2019&d
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
